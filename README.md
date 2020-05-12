@@ -1,4 +1,4 @@
-# dell_e6430_hiRes
+# dell e6430 High Resolution
 Custom EFI files for dell latitude e6430 hiRes for macOS Mojave
 
 Works:
