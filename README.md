@@ -21,4 +21,4 @@ Doesn't work:
 - sometimes says that you have to replace the battery
 
 
-If you want to use, just replace them with provided files In EFI folder
+If you want to use it, just replace them with provided files in EFI folder
